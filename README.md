@@ -28,7 +28,7 @@ Additional features:
 	> Parse arguments placed between quotes
 
 AUTHOR
-Created by Michal Nieruchalski 462084 
+Created by Patryk Malczewski 
 as operating systems final project 
-at Adam Mickiewicz University AD 2020
+at Adam Mickiewicz University AD 2023/2024
 ```
