@@ -1,5 +1,5 @@
 # Microshell
-Linux shell written in C. Created as "Operating systems" course final project at Adam Mickiewicz University.
+Linux shell written in C. Created as "Operating systems" course final project at Adam Mickiewicz University 2023/2024.
 # Run
 > $ make
 >
@@ -28,7 +28,7 @@ Additional features:
 	> Parse arguments placed between quotes
 
 AUTHOR
-Created by Michal Nieruchalski 462084 
+Created by Patryk Malczewski
 as operating systems final project 
-at Adam Mickiewicz University AD 2020
+at Adam Mickiewicz University AD 2023/2024
 ```
