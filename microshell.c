@@ -29,9 +29,8 @@
 #define ANSI_COLOR_RESET   "\001\033[0m\002"
 
 /*
-    Birthdate:
-    Saturday, December 19th, 2020
-    Initial author: Michał Nieruchalski
+    
+    Initial author: Patryk Malczewski
 */
 
 void handle_sigint(int sig);
@@ -294,9 +293,9 @@ void shell_help(char** args) {
     printf("\t> Parse arguments placed between quotes\n");
 
     printf("\nAUTHOR\n");
-    printf("Created by Michal Nieruchalski 462084 \n");
+    printf("Created by Patryk Malczewski \n");
     printf("as operating systems final project \n");
-    printf("at Adam Mickiewicz University AD 2020\n");
+    printf("at Adam Mickiewicz University AD 2023/2024\n");
 }
 
 void shell_cp(char** args) {
