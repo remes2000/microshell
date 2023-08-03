@@ -15,7 +15,7 @@
 #include <readline/readline.h>
 #include <readline/history.h>
 
-#define SHELL_NAME "Microshell"
+#define SHELL_NAME "Microshell_Patryk_Malczewski"
 #define SHELL_VERSION "0.0.1"
 #define LINE_PARTS_BUFF_SIZE 16
 #define LINE_PARTS_DELIMETER " "
@@ -273,6 +273,7 @@ void shell_exit() {
 }
 
 void shell_help(char** args) {
+    printf("By Patryk Malczewski");
     printf("---===   %s   ===---\n\n", SHELL_NAME);
     printf("Version %s\n", SHELL_VERSION);
     printf("Shell builtins: \n");
